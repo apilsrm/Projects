@@ -1,0 +1,11 @@
+In this project we'r going to create Temperature Converetr using Javascript which shows
+Celsius Fahrenheit and Kelvin scale 
+
+We will learned :
+(*)how to use unchange Eventlistner to track changes inside inputs
+(*)how to use switch statement to track changes based on name of states 
+
+Website used 
+
+
+

@@ -1,0 +1,25 @@
+This is currency converter
+I have add only 8 country current we can increase and enhance your skills.
+AUD
+CAD
+CRC
+EUR
+GBP
+INR
+NPR
+JPY
+USD default 
+
+
+
+
+we have used a api key to get real time data
+website for api value---https://v6.exchangerate-api.com
+
+
+
+
+//To run this code 
+we need to change api key .. for your simplicity we can past you new api key from from above website inthe place of my api which i have used .
+
+This is free api key which may be expire so you may need to change api key value .

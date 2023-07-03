@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600&family=Poppins:ital,wght@0,300;1,300&family=Roboto:ital,wght@0,400;1,900&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Outfit','Roboto', 'Poppins', sans-serif;
+}
+
+body {
+  background: rgba(0, 0, 0, 1);
+  /* background: rgb(217, 29, 29); */
+  
+}
+ h1, h4, p, a {
+  color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+ }
+
+ul{
+  list-style-type: none;
+}
+
+.btn {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: rgba(248, 217, 15, 1);
+  color: rgb(39, 38, 38);
+  border: 1px solid rgba(255, 255, 255, 1);
+  font-weight: 600;
+  cursor: pointer;
+
+}
+.btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.9);
+  transition: 0.3s ease;
+}
+.btn-light {
+  background: transparent;
+  color: rgba(255, 255, 255, 0.9);
+}
